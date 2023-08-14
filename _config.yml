@@ -24,13 +24,10 @@ json:
     email1: username@domain.com
   demo: https://hacked-jekyll.netlify.app
   source: https://github.com/piazzai/hacked-jekyll
-  profiles:
-    facebook1: https://www.facebook.com
-    twitter1: https://twitter.com
-    instagram1: https://www.instagram.com
-    linkedin1: https://www.linkedin.com
-    stackoverflow1: https://stackoverflow.com
-    github1: https://github.com
+  links:
+    email_list: https://docs.google.com/forms/d/e/1FAIpQLSdoq7j8f0_1FuUk7brxRGurSGS1oVUrhoAy7UI1S8LoNd6a-A/viewform?usp=sf_link
+    discord: https://discord.gg/MMPh8zwDqN
+    instagram: https://www.instagram.com/hhscomputerscience/
 
 exclude:
   - LICENSE
