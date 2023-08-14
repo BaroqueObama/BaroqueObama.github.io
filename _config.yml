@@ -8,11 +8,12 @@ url: https://hhscs.club
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Computer Science Club
+  name: HHS Computer Science
   description:
-    - Howdy!
+    - Howdy
     - pls join cs club
     - kinda 🔥 fr
+    - (links below)
   cv: homesteadprogramming@gmail.com
   address:
     - Tuesday Lunch
