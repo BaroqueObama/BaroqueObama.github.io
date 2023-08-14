@@ -19,18 +19,18 @@ json:
     - Department of Themes
     - 123 Main St, Anytown, USA
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
+    office1: Foobar Hall 1.23
+    phone1: +1 234 567 890
+    email1: username@domain.com
   demo: https://hacked-jekyll.netlify.app
   source: https://github.com/piazzai/hacked-jekyll
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    facebook1: https://www.facebook.com
+    twitter1: https://twitter.com
+    instagram1: https://www.instagram.com
+    linkedin1: https://www.linkedin.com
+    stackoverflow1: https://stackoverflow.com
+    github1: https://github.com
 
 exclude:
   - LICENSE
