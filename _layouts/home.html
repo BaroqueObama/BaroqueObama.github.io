@@ -51,7 +51,7 @@ layout: default
   <div class="block">
     {% if site.json.cv %}
     {% assign cv = site.json.cv | split: "/" | slice: -1 %}
-    <p><span class="key">email</span><span class="attr"><a href="{{mailto: homesteadprogramming@gmail.com }}" target="_blank">{{ cv }}</a></span></p>
+    <p><span class="key">email</span><span class="attr"><a href="mailto: homesteadprogramming@gmail.com" target="_blank">{{ cv }}</a></span></p>
     {% endif %}
   </div>
   <div class="block">
