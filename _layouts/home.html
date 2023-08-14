@@ -25,10 +25,10 @@ layout: default
     {% endif %}
   </div>
   <div class="block">
-    {% if site.json.profiles %}
-    <span class="array-key">profiles</span>
+    {% if site.json.links %}
+    <span class="array-key">links</span>
     <div class="array">
-      {% for i in site.json.profiles %}
+      {% for i in site.json.links %}
       <p class="array-attr"><a href="{{ i | slice: 1 }}" target="_blank">{{ i | slice: 0 }}</a></p>
       {% endfor %}
     </div>
